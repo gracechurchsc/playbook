@@ -1,4 +1,4 @@
-# Web Contributor Playbook
+# Grace Church Web Volunteer Playbook
 
 ## What do I need to know to help?
 
