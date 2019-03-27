@@ -57,7 +57,7 @@ If you need help, you can ask questions in basecamp or chat directly with
 your Jump In Developer. We value your help and realize contributing to a
 large project like ours is hard. So please don't hesitate to ask for help!
 
-What does the Code of Conduct mean for me?
+## What does the Code of Conduct mean for me?
 
 Our Code of Conduct means that you are responsible for treating everyone on
 the project with respect and courtesy regardless of their identity. If you
